@@ -5,4 +5,4 @@
 
 * Introduction 
 This repository is for tracking the external milestones of Virtual
-Labs like Review meetings, PRSD meets etc.
+Labs like external review/PRSG meets .
